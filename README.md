@@ -7,6 +7,11 @@ It demonstrates the use of SQL to analyze client transaction behavior, card usag
 
 ---
 
+## ⚠️ Disclaimer
+Due to hardware limits, only 12.5 MB of the 1.17 GB transactions_data table was extracted, while the other two tables were complete. The insights are based on the clients_record_data table, which combines some data from transactions_data, users_data, and cards_data.
+
+---
+
 ## 🧠 Overview
 
 The SQL queries analyze and summarize data from the following tables:
